@@ -46,6 +46,6 @@
     "gettext"
   ],
   "dependencies": {
-    "angular-gettext-tools": "~2.1.13"
+    "angular-gettext-tools": "git@github.com:bartbutler/angular-gettext-tools.git"
   }
 }
